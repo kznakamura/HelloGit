@@ -2,6 +2,8 @@ hello git!
 Edit test!
 branch test!
 
+
+こっちも変更
+
 Hello World!
 
-こっちもわざと変えてみる。
